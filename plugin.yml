@@ -1,0 +1,14 @@
+name: OlympusTools
+main: me.gmx.olympus.OlympusTools
+version: 0.01a
+author: GMX
+depend: [ProtocolLib]
+commands:
+  olympus:
+    description: Main Olympus Tools command
+    usage: /olympus menu
+    aliases: [ot,olympustools]
+  olympusadmin:
+    description: Olympus Tools admin command
+    usage: /olympusadmin
+    aliases: [oadmin, otadmin, ota, olympusadmin]
