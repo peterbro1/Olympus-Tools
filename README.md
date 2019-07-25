@@ -1,5 +1,5 @@
 # Olympus-Tools
-##Adds god level items in Minecraft. 
+## Adds god level items in Minecraft. 
 
 Plugin is meant to be a fun thing to mess around with, possibly add these items to crates or something like that. There are currently over 10
 items, and I plan on adding to them.
