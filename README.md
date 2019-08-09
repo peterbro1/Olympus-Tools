@@ -1,6 +1,10 @@
 # Olympus-Tools
 ## Adds god level items in Minecraft. 
 
+Please note this plugin was built against 1.12.2 PAPER spigot.
+You can find a version built against normal 1.12.2 spigot on my spigotmc profile.
+
+
 Plugin is meant to be a fun thing to mess around with, possibly add these items to crates or something like that. There are currently over 10
 items, and I plan on adding to them.
 
