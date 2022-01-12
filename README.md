@@ -24,3 +24,6 @@ Current active items:
 **Zeus's DNA**: Drink the potion to infuse yourself with bits of God DNA, giving yourself a massive boost.<br/>
 
 Got any ideas for new items? Make an issue request, or message me on discord @GMX#2345
+
+
+#### There is no documentation or support as this was a privately contracted project never meant to be shared publicly. This is now abandoned, and I do not plan to maintain it.
